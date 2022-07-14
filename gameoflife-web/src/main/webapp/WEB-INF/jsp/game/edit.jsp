@@ -23,8 +23,8 @@
         }
 
         .footer {
-            color: blue;
-            font-size: small;
+            color: pink;
+            font-size: large;
             text-align: right;
             background-color: silver;
             margin-top: 100px;
