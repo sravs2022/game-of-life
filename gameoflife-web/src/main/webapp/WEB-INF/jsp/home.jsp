@@ -8,7 +8,7 @@
     <!--  TODO: Don't inline this -->
     <style type="text/css">
         h2 {
-            color: blue;
+            color: pink;
             font-family: sans-serif;
         }
 
@@ -39,7 +39,7 @@
             border-left: 2px solid rgb(100, 100, 100);
             border-top: 2px solid rgb(150, 150, 150);
             border-right: 2px solid rgb(150, 150, 150);
-            background: silver;
+            background: yellow;
             width: 100px;
             margin: 8px;
             padding: 4px;
@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Welcome to Conway's Game Of Life!</h2>
+<h2>Welcome to Conway's Game Of Life!from Sravani</h2>
 
 <div class="intro">
     <p>This is a really cool web version of Conway's famous Game Of
